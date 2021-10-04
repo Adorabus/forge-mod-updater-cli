@@ -1,6 +1,6 @@
 {
   "name": "@adorabus/forge-mod-updater-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI utility to update Minecraft Forge mods via the Curse/Twitch mod database.",
   "main": "./lib/index.js",
   "bin": {
