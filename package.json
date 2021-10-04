@@ -35,8 +35,5 @@
     "progress": "^2.0.3",
     "readline-sync": "^1.4.10",
     "yargs": "^17.2.1"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/adorabus"
   }
 }
